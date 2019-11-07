@@ -1,0 +1,21 @@
+body,
+html {
+  width: 100vw;
+  height: 100vh;
+ 
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  margin: 0;
+  background-image: url(Images/MMX3-SNES-Proto_IntroBG.png);
+  background-size: 100%;
+
+}
+canvas{
+  background-image: url(/Images/background.gif);
+
+}
